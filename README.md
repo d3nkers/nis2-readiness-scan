@@ -23,6 +23,15 @@ Na het invullen genereert de tool direct:
 De scan duurt ongeveer 5–8 minuten.
 
 ---
+## Screenshot
+
+![Startscherm](screenshot-start.png)
+
+![Scan interface](screenshot-scan.png)
+
+![Resultaten](screenshot-results.png)
+
+---
 
 ## Beveiligingsdomeinen
 De scan beoordeelt zes kerngebieden:
