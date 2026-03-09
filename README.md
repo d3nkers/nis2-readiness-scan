@@ -25,11 +25,11 @@ De scan duurt ongeveer 5–8 minuten.
 ---
 ## Screenshot
 
-![Startscherm](screenshot-start.png)
+![Startscherm](Screenshot-landing.png)
 
-![Scan interface](screenshot-scan.png)
+![Scan interface](Screenshot-scan.png)
 
-![Resultaten](screenshot-results.png)
+![Resultaten](Screenshot-results.png)
 
 ---
 
